@@ -18,3 +18,6 @@ Use LeakyReLU activation in the discriminator for all layers.
 The simplicity of DCGAN contributes to its success. We reach certain bottleneck that increasing the complexity of the generator does not necessarily improve the image quality. Until we identify the bottleneck and know how to train GANs more effective, DCGAN remains a good start point for a new project. I created a DCGAN model for mimicking the data distribution of MNIST dataset
 
 The results from the DCGAN training on MNIST dataset are:
+
+
+![](/fake_samples_epoch_199.png)
